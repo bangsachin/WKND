@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/spptraining129" mode="merge"/>
+    <filter root="/content/spptraining129" mode="merge"/>
+    <filter root="/content/dam/spptraining129" mode="merge"/>
+    <filter root="/content/experience-fragments/spptraining129" mode="merge"/>
+</workspaceFilter>
